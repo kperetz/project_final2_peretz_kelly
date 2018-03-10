@@ -23,7 +23,7 @@ h1{
 }
 
 p{
-    
+   font-family: 'CormorantGaramond-Regular'; 
 }
 
 #logo{
@@ -47,11 +47,17 @@ aside{
 }
 
 #button1{
-    
+   border: 10px solid #84a175;
+   color: #ffffff;
+   background-color: #84a175;
+   border-radius: 15px;    
     
 }
 
 #button2{
-    
+  border: 10px solid #7a7a7a;
+  color: #ffffff ;
+  background-color: #7a7a7a;
+  border-radius: 15px;    
     
 }
