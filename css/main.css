@@ -32,6 +32,14 @@ p{
     padding: 20px;
 }
 
+figure{
+    
+}
+
+figcaption{
+    font-family: 'CormorantGaramond-Regular';
+}
+
 section{
     
     
@@ -39,6 +47,11 @@ section{
 
 article{
     
+}
+
+#knit{
+    width: 40%;
+    height: 40%;
 }
 
 aside{
