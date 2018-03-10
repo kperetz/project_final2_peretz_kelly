@@ -27,6 +27,9 @@ Gingham: https://www.adamrossfabrics.co.uk/product/black-and-white-gingham-polyc
 
 Leather: https://www.amazon.com/Bonded-Leather-Recliner-Ottoman-Black/dp/B004XUXESS
 
+More information on .gitignore was found here:
+https://git-scm.com/docs/gitignore
+
 
 ## Deductions
 
