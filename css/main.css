@@ -11,9 +11,11 @@ font-family: 'Simple Monologue DEMO', url("../fonts/SimpleMonologueDEMO.ttf");
 }
 
 header{
-    
+   
 }
 
 h1{
-    
+  font-family: 'Simple Monologue DEMO' ;  
 }
+
+.logo
