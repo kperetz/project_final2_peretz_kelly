@@ -39,6 +39,7 @@ h2{
 #black{
    font-family: 'CormorantGaramond-Regular';
    font-size: 1rem;
+    padding: 6px;
    text-align: center;
    border: 1px solid #000000;
    color: #ffffff;
@@ -49,8 +50,9 @@ h2{
 #green{
    font-family: 'CormorantGaramond-Regular';
    font-size: 1rem;
+    padding: 6px;
    text-align: center;
-   border: 10px solid #84a175;
+   border: 1px solid #84a175;
    color: #ffffff;
    background-color: #84a175; 
 }
@@ -58,8 +60,9 @@ h2{
 #gray{
    font-family: 'CormorantGaramond-Regular';
    font-size: 1rem;
+    padding: 6px;
    text-align: center;
-   border: 10px solid #7a7a7a;
+   border: 1px solid #7a7a7a;
    color: #ffffff;
    background-color: #7a7a7a;     
 }
@@ -182,39 +185,149 @@ footer{
     
 }
 
-@media (min-width: 450px){
-    #black{
-        width: 30px;
-        height: 25px;
-        padding: 20px;
+@media (min-width: 470px){
+    h1{
+        text-align: right;
+        width: 100%;
+    }
+    section{
+        width: 50%;
+        margin: auto;    
+    } 
+    article{
+        width: 70%;
         margin: auto;
-        text-align: center;
+    }
+    aside{
+        padding-top: 30px;
+        width: 70%;
+    } 
+    ul{
+        padding: 0px;
+    }
+    footer{
+        width: 300px;
+        height: 100px;
+        margin: auto;
+    }
+
+}
+
+@media (min-width: 700px){
+    body{
+        width: 100%;
+        height: 100%;
+    }
+    
+    #black{
+        width: 300px;
+        height: 40px;
         
 }
 
     #green{
-        width: 30px;
-        height: 25px;
-        padding: 20px;
-        margin: auto;
-        text-align: center;
+        width: 300px;
+        height: 40px;
+        
 }
 
     #gray{
-       width: 30px;
-        height: 25px;
-        padding: 20px;
-        margin: auto;
-        text-align: center;
+        width: 300px;
+        height: 40px;
+        
 }
+
     #white{
-      width: 30px;
-        padding: 29px;
-        height: 25px;
+        width: 300px;
+        height: 40px;
+        
+}
+   #fonts{
         margin: auto;
-        text-align: center;
-}  
-    section{
+        width: 400px;
+        float: left;
+        height: 100%;
+        
+    }
+    
+    ul{
+        
+        clear 
+        width: 200px;
+        
+    }
+    aside {
         width: 100%;
+        padding-top: 30px;
+      
+    }
+    aside p{
+        padding-top: 15px;
+        
+    }
+    
+    footer{
+        display: inline-flex;
+        width: 100%;
+        
+    }
+    #button1{
+        width: 50%;
+    }
+    #button2{
+        width: 50%;
+    }
+}
+
+@media (min-width: 900px){
+    
+    
+   #colors li {
+        display: inline;
+        padding: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+       margin-top: 30px;
+        
+        
+    }
+    h1{
+        font-size: 2.6rem;
+        margin: auto;
+    }
+    h2{
+        padding-bottom: 20px;
+    }
+    #colors{
+       width: 100%;
+       margin: auto;
+    }
+
+    
+    #knit, #gingham, #leather{
+        display: inline;
+        width: 200px;
+        height: 200px;
+    }
+    #fonts{
+        padding-left: 50px;
+    }
+    
+    h3{
+        font-size: 1.7rem;
+    }
+    
+    ul li {
+        font-size: 1.4rem;
+    }
+    
+    #button1, #button2{
+        margin-top: 45px;
+        width: 300px;
+        padding: 5px;
+    }
+    footer{
+        margin-bottom: 3%;
+    
     }
 }
