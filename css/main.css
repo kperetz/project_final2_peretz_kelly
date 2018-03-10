@@ -11,11 +11,47 @@ font-family: 'Simple Monologue DEMO', url("../fonts/SimpleMonologueDEMO.ttf");
 }
 
 header{
-   
+   display: inline-flex;
 }
 
 h1{
-  font-family: 'Simple Monologue DEMO' ;  
+  font-family: 'Simple Monologue DEMO' ; 
+  padding: 15px;
+  width: 100%;
+  
+  
 }
 
-.logo
+p{
+    
+}
+
+#logo{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+section{
+    
+    
+}
+
+article{
+    
+}
+
+aside{
+    
+    
+}
+
+#button1{
+    
+    
+}
+
+#button2{
+    
+    
+}
