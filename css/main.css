@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+@font-face{
+font-family: 'CormorantGaramond-light', url("../fonts/CormorantGaramond-Light.ttf");
+font-family: 'CormorantGaramond-Regular', url("../fonts/CormorantGaramond-Regular.ttf");
+font-family: 'Simple Monologue DEMO', url("../fonts/SimpleMonologueDEMO.ttf");
+}
+
+header{
+    
+}
+
+h1{
+    
+}
