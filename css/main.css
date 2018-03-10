@@ -23,47 +23,135 @@ h1{
 }
 
 p{
-   font-family: 'CormorantGaramond-Regular'; 
+   font-family: 'CormorantGaramond-Regular';
+   font-size: 1rem;
+   text-align: center;
 }
 
+h2{
+   font-family: 'Simple Monologue DEMO';
+   font-size: 1.6rem;
+   text-align: center;
+   padding-top: 15px;    
+}
+
+#black{
+   font-family: 'CormorantGaramond-Regular';
+   font-size: 1rem;
+   text-align: center;
+   border: 10px solid #000000;
+   color: #ffffff;
+   background-color: #000000;   
+}
+
+#green{
+   font-family: 'CormorantGaramond-Regular';
+   font-size: 1rem;
+   text-align: center;
+   border: 10px solid #84a175;
+   color: #ffffff;
+   background-color: #84a175; 
+}
+
+#gray{
+   font-family: 'CormorantGaramond-Regular';
+   font-size: 1rem;
+   text-align: center;
+   border: 10px solid #7a7a7a;
+   color: #ffffff;
+   background-color: #7a7a7a;     
+}
+#white{
+   font-family: 'CormorantGaramond-Regular';
+   font-size: 1rem;
+   text-align: center;
+   border: 1px solid #000000;
+   padding: 6px;
+   color: #000000;
+   background-color: #ffffff;     
+} 
+
+h3{
+   font-family: 'Simple Monologue DEMO';
+   font-size: 1.2rem;
+   text-align: center;    
+}
+#headerfont{
+   font-family: 'Simple Monologue DEMO'; 
+   font-size: 1.7rem;
+}
+#subhead{
+   font-family: 'CormorantGaramond-Light'; 
+    font-size: 1rem;
+}
+
+#paragraph{
+   font-family: 'CormorantGaramond-Regular';
+   font-size: 1rem;
+   text-align: center;
+    
+}
+
+#paragraph:first-letter{
+   font-size:1.7rem;
+}
+
+#link{
+    
+    color: #84a145;
+}
+
+#link:hover{
+    text-decoration: underline;
+    color: #7a7a7a;
+}
+ul{
+    padding-top: 15px;
+}
+li {
+   font-family: 'CormorantGaramond-Regular' ;
+   font-size: 0.9rem; 
+    text-align: center;
+    padding: 4px;
+    list-style-type: none;
+}
 #logo{
     width: 200px;
     height: 200px;
     padding: 20px;
 }
 
-figure{
-    
-}
-
-figcaption{
-    font-family: 'CormorantGaramond-Regular';
-}
-
-section{
-    
-    
-}
-
-article{
-    
-}
-
 #knit{
-    width: 40%;
-    height: 40%;
+    width: 100%;
+    height: 240px;
+    border: 1px solid #000000; 
+}
+#gingham{
+    width: 100%;
+    height: 250px;
+    border: 1px solid #000000; 
+}
+
+#leather{
+    width: 100%;
+    height: 250px;
+    border: 1px solid #000000; 
 }
 
 aside{
-    
+   margin: auto; 
     
 }
 
+footer{
+    width: 100%;
+}
 #button1{
    border: 10px solid #84a175;
    color: #ffffff;
    background-color: #84a175;
-   border-radius: 15px;    
+   border-radius: 15px;  
+   text-align: center;
     
 }
 
@@ -71,6 +159,7 @@ aside{
   border: 10px solid #7a7a7a;
   color: #ffffff ;
   background-color: #7a7a7a;
-  border-radius: 15px;    
+  border-radius: 15px; 
+  text-align: center;
     
 }
