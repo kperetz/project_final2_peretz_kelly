@@ -222,29 +222,7 @@ footer{
         height: 100%;
     }
     
-    #black{
-        width: 300px;
-        height: 40px;
-        
-}
-
-    #green{
-        width: 300px;
-        height: 40px;
-        
-}
-
-    #gray{
-        width: 300px;
-        height: 40px;
-        
-}
-
-    #white{
-        width: 300px;
-        height: 40px;
-        
-}
+  
    #fonts{
         margin: auto;
         width: 400px;
@@ -309,12 +287,26 @@ footer{
        margin: auto;
     }
 
-    
-    #knit, #gingham, #leather{
+    #knit{
         display: inline;
-        width: 200px;
+        width: 30%;
         height: 200px;
+        padding: 5px;
     }
+     #gingham{
+        display: inline;
+        width: 30%;
+        height: 200px;
+        padding: 5px;
+    }
+    #leather{
+        display: inline;
+        width: 30%;
+        height: 200px;
+        padding: 5px;
+        
+    }
+   
     #fonts{
         padding-left: 50px;
     }

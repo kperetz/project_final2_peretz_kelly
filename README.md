@@ -5,11 +5,11 @@ Kelly Peretz
 ## Links
 Github: 
 
-Web host: 
+Web host: http://kellyperetz.com/project_final2_peretz_kelly/
 
-W3C validator: 
+W3C validator: https://validator.w3.org/unicorn/check?ucn_uri=kellyperetz.com%2Fproject_final2_peretz_kelly%2F&ucn_task=conformance#
 
-HTML5 Outliner:
+HTML5 Outliner: https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fkellyperetz.com%2Fproject_final2_peretz_kelly%2F
 
 ## Resources
 I got the orignal niffler image from this website to use in my logo: https://www.deviantart.com/art/Niffler-653304125
