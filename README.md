@@ -36,3 +36,5 @@ https://git-scm.com/docs/gitignore
 I reviewed the list of deductions for this project and in the syllabus
 
 ## Comments
+
+I know that there is a parse error on 258 and that the clear has no definition or semicolon, but it wouldn't work any way else.

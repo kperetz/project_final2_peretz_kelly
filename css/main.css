@@ -5,9 +5,12 @@
 }
 
 @font-face{
-font-family: 'CormorantGaramond-light', url("../fonts/CormorantGaramond-Light.ttf");
-font-family: 'CormorantGaramond-Regular', url("../fonts/CormorantGaramond-Regular.ttf");
-font-family: 'Simple Monologue DEMO', url("../fonts/SimpleMonologueDEMO.ttf");
+font-family: 'CormorantGaramond-light'; 
+src: url("../fonts/CormorantGaramond-Light.ttf");
+font-family: 'CormorantGaramond-Regular';
+src: url("../fonts/CormorantGaramond-Regular.ttf");
+font-family: 'Simple Monologue DEMO';
+src: url("../fonts/SimpleMonologueDEMO.ttf");
 }
 
 header{
@@ -249,6 +252,9 @@ footer{
         height: 100%;
         
     }
+      h3{
+        font-size: 1.7rem;
+    }
     
     ul{
         
@@ -313,10 +319,6 @@ footer{
         padding-left: 50px;
     }
     
-    h3{
-        font-size: 1.7rem;
-    }
-    
     ul li {
         font-size: 1.4rem;
     }
@@ -331,3 +333,4 @@ footer{
     
     }
 }
+
